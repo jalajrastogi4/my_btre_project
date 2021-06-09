@@ -1,5 +1,5 @@
 colorama==0.4.1
-Django==2.2.1
+Django==2.2.22
 django-smtp-ssl==1.0
 Pillow==6.0.0
 psycopg2==2.8.2
